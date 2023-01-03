@@ -1,0 +1,24 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewVSS/projectForNetlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewVSS/projectForNetlify/issues"
+  },
+  "homepage": "https://github.com/AndrewVSS/projectForNetlify#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
